@@ -1,1 +1,2 @@
 # Javascript
+journey toward development 
